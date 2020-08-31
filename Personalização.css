@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(212, 217, 219);
+}
+h1 {
+    text-align: center;
+    border:solid rgb(12, 77, 107);
+    background-color: rgb(38, 168, 228);
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    ;
+}
+.garrafa {
+    border: 505px red;
+    max-width: 500px;
+    width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.parágrafo1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    text-indent: 1.5em;
+}
+.parágrafo2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 1.5em;
+    font-size: 17px;
+}
+.parágrafo3 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 1.5em;
+    font-size: 17px;
+}
+.parágrafo4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    text-indent: 1.5em;
+}
+.parágrafo5 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    text-indent: 1.5em;
+}
